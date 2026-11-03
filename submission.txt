@@ -1,0 +1,4 @@
+Student Name: Tribhuwan Kararia
+Student ID: 05240155
+GitHub Repository Link: https://github.com/tribhuwankcee-ai/portfolio
+Deployed Website Link: https://tribhuwankcee-ai.github.io/portfolio/
